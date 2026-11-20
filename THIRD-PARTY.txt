@@ -1,0 +1,155 @@
+Third-party licenses
+
+These parts are not the property of MediaNews S.r.l.
+Their licenses remain in force for the component named here.
+The terms in LICENSE govern the Intercom program.
+
+The license text that follows each group is the text that
+component requires to be kept with a copy of the program.
+
+Pion
+  WebRTC and the related protocols shipped with it: ICE, DTLS,
+  SRTP, SCTP, SDP, RTP, RTCP, STUN, TURN, MDNS, datachannel,
+  interceptor, logging, randutil, and transport.
+  Copyright (c) The Pion community. MIT License.
+
+hraban/opus
+  MIT License. This is the interface to libopus.
+
+Web Awesome
+  Copyright (c) 2025 Fonticons, Inc. MIT License.
+  The copy distributed with the server is under web/vendor/webawesome/.
+  Some of those files include lit-html, Copyright 2018 Google LLC,
+  BSD 3-Clause License.
+
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
+BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+gorilla/websocket
+  Copyright (c) Gorilla web toolkit authors. BSD 2-Clause License.
+
+godbus/dbus
+  BSD 2-Clause License.
+
+BSD 2-Clause License
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+
+1. Redistributions of source code must retain the above copyright
+   notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright
+   notice, this list of conditions and the following disclaimer in
+   the documentation and/or other materials provided with the
+   distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS
+FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
+INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,
+BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN
+ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
+
+google/uuid
+  Copyright (c) Google. BSD 3-Clause License.
+
+golang.org/x/crypto, golang.org/x/net, golang.org/x/sys, golang.org/x/time
+  Copyright (c) The Go Authors. BSD 3-Clause License.
+
+rsc.io/qr
+  Copyright (c) Russ Cox. BSD 3-Clause License.
+
+wlynxg/anet
+  Copyright (c) 2023 wlynxg. BSD 3-Clause License.
+  The name of the copyright holder is not used to endorse or promote
+  this program.
+
+libopus
+  Copyright (c) Xiph.Org Foundation. BSD 3-Clause License.
+  The Opus codec may be used in a commercial product without a royalty.
+
+lit-html, included in Web Awesome
+  Copyright (c) 2018 Google LLC. BSD 3-Clause License.
+
+BSD 3-Clause License
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+
+1. Redistributions of source code must retain the above copyright
+   notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright
+   notice, this list of conditions and the following disclaimer in
+   the documentation and/or other materials provided with the
+   distribution.
+
+3. Neither the name of the copyright holder nor the names of its
+   contributors may be used to endorse or promote products derived
+   from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS
+FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
+INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,
+BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN
+ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
+
+ALSA (libasound) and Avahi
+  GNU Lesser General Public License.
+  They are installed as system libraries and are not built into
+  the program.
+
+PipeWire
+  When WirePlumber is present, the endpoint programs run wpctl.
+  They do not redistribute the PipeWire source.
+
+NDI
+  This notice applies to Intercom 4-wire and Intercom point-to-point,
+  which distribute libndi.so from the free NDI SDK, version 6.3.2.
+  The server does not include that library.
+
+  Copyright (C) 2023-2026 Vizrt NDI AB. All rights reserved.
+  Licensed under the NDI SDK License Agreement:
+  http://ndi.link/ndisdk_license
+
+  NDI is a trademark of Vizrt NDI AB.
+
+  libndi_licenses.txt is distributed next to libndi.so. It also
+  names the libraries used inside NDI: RapidJSON (MIT),
+  SpeexDSP (BSD), RapidXML (MIT), CxxUrl (MIT), and ASIO
+  (Boost Software License 1.0).
