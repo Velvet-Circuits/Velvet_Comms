@@ -83,9 +83,13 @@ tar -xzf intercom-linux-amd64.tar.gz
 cd intercom-linux-amd64
 ```
 
-Read `LICENSE` and `THIRD-PARTY.txt` in this folder. Installing the
-program accepts those terms. MediaNews S.r.l. grants use for the
-licensee's own activity, including commercial use.
+Read [LICENSE](LICENSE) and [THIRD-PARTY.txt](THIRD-PARTY.txt) before
+you install. The same files are in this folder after you unpack the
+archive. Installing the program accepts those terms. MediaNews S.r.l.
+grants use for the licensee's own activity, including commercial use.
+Intercom 4-wire and Intercom point-to-point also ship
+[libndi_licenses.txt](libndi_licenses.txt). The server archive does not
+include the NDI library.
 
 ## 4. Install
 
