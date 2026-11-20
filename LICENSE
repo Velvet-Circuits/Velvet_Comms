@@ -1,0 +1,87 @@
+Intercom
+Terms of use
+
+Copyright (c) 2026 MediaNews S.r.l. All rights reserved.
+
+The program, the pages, the icons, and the original documentation
+are the property of MediaNews S.r.l. These terms do not transfer
+any ownership.
+
+1. Acceptance
+Installing the program accepts these terms. Installing a later
+version accepts them again. The terms are this file. Third-party
+notices are in THIRD-PARTY.txt. Where a package includes the NDI
+library, its notices are in libndi_licenses.txt.
+
+2. Grant
+MediaNews S.r.l. grants a non-exclusive, non-transferable right
+to use the program for the licensee's own activity, including
+commercial use.
+
+On the server, that right runs during the first five days without
+a license, and after that for the computer and the period named
+in a valid license. The expiry date is included. Audio continues
+for seven days after that date. It then stays closed until a new
+license is saved. An expired license does not start the five days
+again. Administration stays available.
+
+Intercom 4-wire and Intercom point-to-point have no separate
+license. This grant covers their use.
+
+3. Restrictions
+The licensee may not sell, rent, sublicense, or distribute the
+program, and may not offer it to others as a service. The
+licensee may not copy it except for an installation and a backup,
+and may not modify it or reverse engineer it, except where the
+law does not allow that limit. Notices in the program and in
+these terms stay in place.
+
+4. Third-party components
+Some parts are the work of other authors and remain under their
+own licenses. Those texts are in the file THIRD-PARTY.txt.
+Where a component is under a different license, that license
+governs that component only.
+
+5. NDI library
+This section applies only to the programs that include the NDI
+library (libndi.so): Intercom 4-wire and Intercom point-to-point.
+The server does not include that library.
+
+NDI is a trademark of Vizrt NDI AB. The program is compatible
+with NDI. It is not an NDI product, and NDI does not sponsor it.
+
+The NDI library is licensed under the NDI SDK License Agreement.
+Anyone who receives the program:
+
+- does not modify the NDI SDK, the NDI library, or the NDI products;
+- does not reverse engineer, disassemble, or recompile the NDI
+  library, or the protocols used by NDI;
+- does not circumvent the technical limitations of the NDI library;
+- does not remove or alter NDI's notices or labels;
+- complies with the United States export laws that apply to
+  that library.
+
+The NDI library is provided "as is", without warranty, by
+Vizrt NDI AB and its licensors. To the extent permitted by law,
+NDI and its licensors are not liable for damage arising from
+use of the library. Copyright in the library belongs to
+Vizrt NDI AB. The file libndi_licenses.txt accompanies the
+library.
+
+6. Disclaimer of warranty
+The program is provided "as is", without warranty of any kind,
+express or implied, including merchantability and fitness for
+a particular purpose.
+
+7. Limitation of liability
+To the extent permitted by the law of Italy, MediaNews S.r.l.
+is not liable for indirect, incidental, or consequential damages,
+or for lost profits, arising from the use of the program or the
+inability to use it. Liability for wilful misconduct or gross
+negligence is not excluded. Rights that the law does not allow
+to be excluded remain in force.
+
+8. Governing law
+These terms are governed by the law of Italy. The courts of the
+place where MediaNews S.r.l. has its registered office have
+jurisdiction.
